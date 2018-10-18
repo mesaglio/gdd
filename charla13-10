@@ -1,0 +1,26 @@
+esquma conjunto de objetos
+
+tablas: relaciones, fijarse en q orden se crean las tablas
+	crea y dropea, genera el codfio if exist () drop
+
+ENTREGAR ESQUEMA
+
+migracion de datos:
+		se migran los datos tal cual esten, no hay que redefinir datos
+
+		se deben crear los datos del SISTEMA
+
+DER
+		29/10
+		avanzar en el script de sql antes del der
+.SQL
+	crear esquema
+	crear tablas
+
+	vistas
+	funciones
+	procedires
+	triggers(integridad, validaciones faciles,se cumple para todos los datos de la tabla)
+
+	llenado de las tablas(algunas con un insert y aveces un procedimiento)
+	drop objetos, que solo te utilizan para el llenado, lo que no utiliza el sistema
