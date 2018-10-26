@@ -10,7 +10,7 @@
 ## Formatos de Entrega
   . Mail : gestiondedatos.entregas@gmail.com
   
-  . Asunto : `TP2C2018 <curso> <nombreGrupo> <Nro de grupo>`
+  . Asunto : `TP2C2018 K3673 PROGRAM_RANGERS 34`
   
 ### Algunos datos de la Tabla Maestra
 
