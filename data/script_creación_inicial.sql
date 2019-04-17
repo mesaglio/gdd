@@ -13,11 +13,19 @@
 
 --Creacion de Tablas
   create table PROGRAM_RANGERS.Rol{
-  -- id_rol int not null
+   id_rol int not null --PK
+   descripcion varchar(100)
+   -- funciones
+
   }
 
   create table PROGRAM_RANGER.Usuario{
-
+      userName --PK
+      passw
+      rol --FK
+      tipoUser
+      empresa
+      Cliente --FK
   }
   create table PROGRAM_RANGER.Cliente{
 
